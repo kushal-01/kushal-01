@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kushal-01
+- 👋 Hi, I’m KUSHAL RAWAT.
 - 👀 I’m interested in latest Technologies involving AI/ML, BLOCKCHAIN, IOT etc. .
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate with open source projects in WEBD.
